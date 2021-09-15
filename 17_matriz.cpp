@@ -1,5 +1,4 @@
 /*
-Thais de Cassia Hipolito Souza - matricula: 2021008621
 17) Faça um programa que calcule o determinante de uma matriz 3x3;
 
  */
